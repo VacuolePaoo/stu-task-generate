@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "tasklist-for-class",
   "version": "1.0.0",
   "description": "任务清单分配系统",
@@ -17,4 +18,16 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
+=======
+  "name": "StudentsTaskGenerate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> ca4eb01 (🎉 init(初始化项目):)
 }

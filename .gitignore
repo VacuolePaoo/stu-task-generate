@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 依赖目录
 node_modules/
 
@@ -44,3 +45,67 @@ pnpm-lock.yaml
 *.tmp
 *.temp
 .cache
+=======
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore environment variable files
+.env
+.env.local
+
+# Ignore compiled files
+*.out
+*.class
+*.o
+*.so
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore dependency directories
+vendor/
+composer.lock
+yarn.lock
+package-lock.json
+
+# Ignore Python specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Java specific files
+*.jar
+*.war
+*.ear
+
+# Ignore Ruby specific files
+*.gem
+*.rbc
+
+# Ignore Go specific files
+*.exe
+*.test
+>>>>>>> ca4eb01 (🎉 init(初始化项目):)
